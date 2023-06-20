@@ -1,4 +1,4 @@
-[![SidneyJob](static/logo.jpeg)](https://github.com/qwqoro)
+[![SidneyJob](static/logo.jpeg)](https://github.com/SidneyJob){width=100}{height=100}
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!%20I`m%20SidneyJob)](https://git.io/typing-svg)
 
@@ -22,11 +22,11 @@
 
 
 
-<div>
-    <div align=left>
+<div style="display: inline;">
+    <div align=left style="display: inline;">
         <a href="https://github.com/SidneyJob"><img src="https://github-readme-stats.vercel.app/api?username=SidneyJob&theme=dark"/></a>
     </div>
-    <div align=right>
+    <div align=right style="display: inline;">
         <a href="https://github.com/SidneyJob"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyJob&theme=dark"/></a>
     </div>
 </div>

@@ -13,20 +13,21 @@
 - 🇷🇺 Enthusiasts, writer from Russia 
 - 📫 How to contact with me: SidneyJob13@gmail.com
 
+
 <div align=left>
 	<a href="https://sidneyjob.ru"><img src="https://img.shields.io/badge/CV%20[EN]-informational?style=for-the-badge&color=808080"/></a>&nbsp;
 	<a href="https://sidneyjob.ru"><img src="https://img.shields.io/badge/CV%20[RU]-informational?style=for-the-badge&color=808080"/></a>
-</div>
+</div>&nbsp;
 
 
 
 
 <div>
     <div align=left>
-        <a href="https://github.com/SidneyJob"><img src="https://github-readme-stats.vercel.app/api?username=SidneyJob&theme=dark"/></a>&nbsp;
+        <a href="https://github.com/SidneyJob"><img src="https://github-readme-stats.vercel.app/api?username=SidneyJob&theme=dark"/></a>
     </div>
     <div align=right>
-        <a href="https://github.com/SidneyJob"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyJob&theme=dark"/></a>&nbsp;
+        <a href="https://github.com/SidneyJob"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyJob&theme=dark"/></a>
     </div>
 </div>
 

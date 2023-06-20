@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%20all!%20I%20am%20SidneyJob)](https://sidneyjob.ru)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%20all!%20I%20am%20SidneyJob!)](https://sidneyjob.ru)
 
 
 [![ Pronouns ](https://img.shields.io/badge/[%20He%20/%20His%20]-informational?style=flat-square&color=eeeeee)]()

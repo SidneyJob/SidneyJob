@@ -37,8 +37,6 @@
 		&nbsp;
 		<a href="https://habr.com/ru/users/SidneyJob/posts/" target="blank"><img align="center" src="./static/habr.svg" alt="SidneyJob" height="60" width="60" /></a>
 		&nbsp;
-		<a href="https://t.me/SidneyJob" target="blank"><img align="center" src="./static/Telegram.svg" alt="SidneyJob" height="40" width="40" /></a>
-		&nbsp;
 	</p>
 </div>
 

@@ -1,6 +1,4 @@
-<img src="static/logo.jpeg" height=100 alt="Logo">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%20all!%20I%20am%20application%20security%20engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%20all!%20I%20am%20SidneyJob)](https://sidneyjob.ru)
 
 
 [![ Pronouns ](https://img.shields.io/badge/[%20He%20/%20His%20]-informational?style=flat-square&color=eeeeee)]()
